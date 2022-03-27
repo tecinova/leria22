@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 :root {
     --bgColor: #eeeeee;
-    --accentColor: #204051;
+    --accentColor: #1e78a2;
     --font: 'Roboto', sans-serif;
 }
 
@@ -11,7 +11,7 @@ body{
 }
 
 div.top{
-    background-color: #204051;
+    background-color: #1e78a2;
     margin: 0;
 }
 
